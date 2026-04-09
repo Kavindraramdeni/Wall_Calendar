@@ -404,6 +404,3 @@ export default function WallCalendar() {
     </>
   );
 }
-export default function WallCalendar(){
-  return <div>Calendar Loaded (Replace with your full code)</div>;
-}
